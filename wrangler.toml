@@ -1,0 +1,7 @@
+name = "technewsnow"  # 你的项目名称
+type = "javascript"
+
+[[d1_databases]]
+binding = "NEWSNOW_DB"
+database_name = "news"  # 替换为你创建的数据库名称
+database_id = "c12618b1-3edc-427d-b9fb-2ea8f8a1dc74"      # 替换为你创建的数据库 ID
